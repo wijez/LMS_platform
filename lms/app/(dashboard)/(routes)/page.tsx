@@ -9,13 +9,13 @@ export default function Home() {
    
       <UserButton/>
   
-    <p>Hi</p>
+    {/* <p>Hi</p>
       <Button variant={"destructive"}>
         Read
       </Button>
       <ModeToggle>
 
-      </ModeToggle>
+      </ModeToggle> */}
     </>
   );
 }
